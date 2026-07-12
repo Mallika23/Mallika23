@@ -64,7 +64,7 @@
 
 ## 🔨 Featured Inprogress Projects
 
-> Portfolio proving **AI-assisted QA** and **AI-agent development**. Links point to my repos — update them as each ships.
+> 🚧 Building in public — a portfolio proving AI-assisted QA and AI-agent development. Links go live as each project ships.
 
 | Project | What it does | Proves |
 |---|---|---|
