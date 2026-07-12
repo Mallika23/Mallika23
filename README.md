@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mallika 👋</h1>
 
-<h3 align="center">AI-Assisted QA / SDET Engineer · Java-first · Cloud-scale testing</h3>
+<h3 align="center">AI-Assisted QA / SDET Engineer · Python&Java · Cloud-scale testing</h3>
 
 <p align="center">
   I build testing systems that use LLMs to catch what humans miss — cutting flaky failures,
