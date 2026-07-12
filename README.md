@@ -62,7 +62,7 @@
 
 ---
 
-## 🔨 Featured Inprogress Projects
+## 🔨 Featured In-progress Projects
 
 > 🚧 Building in public — a portfolio proving AI-assisted QA and AI-agent development. Links go live as each project ships.
 
